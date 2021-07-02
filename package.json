@@ -2,6 +2,7 @@
   "name": "emotion-babel-plugin-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/emotion-babel-plugin-demo/build/",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@emotion/babel-plugin": "^11.3.0",
