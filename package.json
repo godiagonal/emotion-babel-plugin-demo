@@ -152,7 +152,13 @@
       "react-app"
     ],
     "plugins": [
-      "@emotion"
+      [
+        "@emotion",
+        {
+          "autoLabel": "always",
+          "labelFormat": "[filename]_[local]"
+        }
+      ]
     ]
   }
 }
