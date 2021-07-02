@@ -155,8 +155,7 @@
       [
         "@emotion",
         {
-          "autoLabel": "always",
-          "labelFormat": "[filename]_[local]"
+          "autoLabel": "always"
         }
       ]
     ]
